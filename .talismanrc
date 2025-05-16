@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: src/random_password/password.py
+  checksum: 0ca20cdc41290296c165f2c9c41b259836e0bb61bef65154aaf41a1499deedab
+- filename: src/random_password/password_generator.py
+  checksum: 59c2de651a7f19b9af07cc21eb9e1fec5cdefe60572aada0208e7a886774decd
+- filename: tests/random_password/password_test.py
+  checksum: 093c4168a3851f638e4e8e3a508d0374b223579a6977274568bfe721a8d50386
+version: "1.0"

@@ -1,7 +1,7 @@
 from src.trivia_game.question import Question
 
 class Quiz:
-  def __init__(self, questions):
+  def __init__(self, questions: list[Question]):
     self.questions = questions
     
   def start(self):
